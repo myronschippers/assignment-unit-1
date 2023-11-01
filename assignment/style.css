@@ -11,3 +11,33 @@
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+
+/* div {
+  background-color: #650dbe;
+} */
+
+#Myron {
+  background-color: greenyellow;
+  color: black;
+}
+
+.dobs {
+  background-color: blue;
+}
+
+.dobs {
+  background-color: yellow;
+  color: black;
+}
+
+.login {
+  font-size: 20px;
+  border-radius: 100px;
+}
+
+.login:hover {
+  font-size: 25px;
+}
+button {
+  font-weight: bold;
+}
