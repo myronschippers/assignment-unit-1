@@ -71,3 +71,9 @@ if (bird > cat && bird < dog) {
 } else {
   console.log('Not between');
 }
+
+const falsy = undefined;
+
+if (falsy == null) {
+  console.log('null or undefined');
+}
