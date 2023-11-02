@@ -77,3 +77,8 @@ const falsy = undefined;
 if (falsy == null) {
   console.log('null or undefined');
 }
+
+let minAge = 21;
+// minAge = 12;
+// minAge = 12;
+console.log(minAge);
